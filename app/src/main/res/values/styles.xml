@@ -8,4 +8,11 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="EditTextWhite">
+        <item name="android:textColorHint">#9e9e9e</item>
+        <item name="android:textSize">25dp</item>
+        <item name="colorAccent">#ff4081</item>
+        <item name="colorControlNormal">#9e9e9e</item>
+        <item name="colorControlActivated">#ff4081</item>
+    </style>
 </resources>

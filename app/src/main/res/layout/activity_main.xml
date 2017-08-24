@@ -83,23 +83,23 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:orientation="horizontal">
+
                     <RelativeLayout
                         android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        >
+                        android:layout_height="wrap_content">
+
                         <ImageView
                             android:id="@+id/im_3"
                             android:layout_width="40dp"
                             android:layout_height="40dp"
-                            android:background="@drawable/icons8_buena_calidad_96"
+                            android:layout_marginLeft="100dp"
                             android:layout_marginTop="120dp"
-                            android:layout_marginLeft="100dp"/>
+                            android:background="@drawable/icons8_buena_calidad_96" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:layout_toRightOf="@id/im_3"
-                            />
+                            android:layout_toRightOf="@id/im_3" />
                     </RelativeLayout>
 
                 </LinearLayout>
